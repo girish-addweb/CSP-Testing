@@ -48,15 +48,8 @@ public class CSPChecker {
 
         // List of sitemap URLs to crawl
         List<String> sitemapUrls = Arrays.asList(
-                "https://www.a-lign.com/post-sitemap.xml",
-                "https://www.a-lign.com/page-sitemap.xml",
-                "https://www.a-lign.com/resource-sitemap.xml",
-                "https://www.a-lign.com/people-sitemap.xml",
-                "https://www.a-lign.com/service-sitemap.xml",
-                "https://www.a-lign.com/testimonials-sitemap.xml",
-                "https://www.a-lign.com/geo-location-sitemap.xml",
-                "https://www.a-lign.com/integration-type-sitemap.xml",
-                "https://www.a-lign.com/event-type-sitemap.xml"
+             //Add the sitemap url here 
+            
         );
 
 
